@@ -132,9 +132,5 @@ Body: {
 }
 ```
 
----
 
- License
-
-This project is free to use under the [MIT License](LICENSE).
 
