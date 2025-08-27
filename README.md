@@ -10,7 +10,7 @@ A simple and clean RESTful API built using Flask and SQLAlchemy to manage a To-D
 - Flask
 - SQLAlchemy (ORM)
 - SQLite (Database)
--error
+  
 ---
 
  Features
