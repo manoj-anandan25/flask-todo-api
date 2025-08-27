@@ -1,7 +1,7 @@
 ## Flask To-Do List API  
 
 A simple and clean RESTful API built using Flask and SQLAlchemy to manage a To-Do list. It supports creating, reading, updating, and deleting tasks using SQLite as the backend database.
-fff
+
 ---
 
  Tech Stack
